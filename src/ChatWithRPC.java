@@ -42,8 +42,6 @@ public class ChatWithRPC extends ReceiverAdapter {
 
 
         }
-
-
     }
 
     public void printOut(String text){
